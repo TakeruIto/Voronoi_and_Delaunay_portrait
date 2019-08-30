@@ -6,10 +6,10 @@ cv2の関数を使ってボロノイ図とドロネーズを描くサンプル. 
 ## Usage
 
 ### delaunay
-`$pyhton main.py --type d --path path/to/image`
+`pyhton main.py --type d --path path/to/image`
 
 ### voronoi
-`$pyhton main.py --type v --path path/to/image`
+`pyhton main.py --type v --path path/to/image`
 
 ### voronoi with color
-`$pyhton main.py --type v --path path/to/image --color c`
+`pyhton main.py --type v --path path/to/image --color c`
